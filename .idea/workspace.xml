@@ -4,36 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2141c86-b6d7-44ea-bb9c-0bce444533f5" name="Changes" comment="start">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/header/header.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/header.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shared/assets/ava's/ava-01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shared/assets/ava's/ava-02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shared/assets/ava's/ava-03.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shared/assets/ava's/ava-04.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shared/assets/ava's/ava-05.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shared/assets/ava's/ava-06.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shared/assets/ava's/ava-07.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shared/assets/ava's/ava-08.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shared/assets/ava's/ava-09.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shared/assets/ava's/ava-10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shared/assets/ava's/ava-11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shared/assets/ava's/ava-12.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shared/assets/home-imgs/bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shared/assets/home-imgs/createAcc.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shared/assets/home-imgs/hero.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shared/assets/home-imgs/pink-bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shared/assets/market/img-01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shared/assets/market/img-02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shared/assets/market/img-03.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shared/assets/market/img-04.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shared/assets/market/img-05.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shared/assets/market/img-06.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shared/assets/market/img-07.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shared/assets/market/img-08.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shared/assets/market/img-09.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shared/data/data.js" beforeDir="false" />
-    </list>
+    <list default="true" id="f2141c86-b6d7-44ea-bb9c-0bce444533f5" name="Changes" comment="start" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -100,6 +71,7 @@
       <workItem from="1707403002593" duration="1348000" />
       <workItem from="1707440885710" duration="5698000" />
       <workItem from="1707537320975" duration="1993000" />
+      <workItem from="1707539395014" duration="351000" />
     </task>
     <task id="LOCAL-00001" summary="start">
       <option name="closed" value="true" />
@@ -117,7 +89,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707538607802</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="start">
+      <option name="closed" value="true" />
+      <created>1707539543954</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1707539543954</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
