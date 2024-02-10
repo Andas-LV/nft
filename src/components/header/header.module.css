@@ -1,0 +1,28 @@
+.header, ul, .logo, button{
+    display: flex;
+    align-items: center;
+}
+
+.header{
+    width: 100%;
+    padding: 20px 40px;
+    justify-content: space-between;
+}
+
+ul{
+    gap:1.5em;
+}
+ul li{
+    cursor: pointer;
+}
+
+button{
+    gap:0.5em;
+    background-color: #A259FF;
+    padding: 15px 20px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: #6b00ff;
+}
