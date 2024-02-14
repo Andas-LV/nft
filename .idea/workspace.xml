@@ -4,14 +4,39 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2141c86-b6d7-44ea-bb9c-0bce444533f5" name="Changes" comment="start">
-      <change afterPath="$PROJECT_DIR$/lib/prisma.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/schema.prisma" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/components/Card/Card.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="f2141c86-b6d7-44ea-bb9c-0bce444533f5" name="Changes" comment="img added">
+      <change afterPath="$PROJECT_DIR$/pnpm-lock.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/ava/ava-03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/ava/ava-04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/ava/ava-05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/ava/ava-06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/ava/ava-07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/ava/ava-08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/ava/ava-09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/ava/ava-10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/ava/ava-11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/ava/ava-12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/home-imgs/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/home-imgs/createAcc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/home-imgs/hero.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/home-imgs/pink-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/market/img-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/market/img-02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/market/img-03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/market/img-04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/market/img-05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/market/img-06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/market/img-07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/market/img-08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/market/img-09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/Creators/Creator.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/shared/data/data.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/prisma.ts" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/schema.prisma" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/Card/Card.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/Card/Card.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/pages/MainPage/MainPage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/pages/MainPage/MainPage.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,16 +84,18 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\User\\Desktop\\GIT-projects\\nft\\node_modules\\typescript\\lib&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\User\Desktop\GIT-projects\nft" />
-      <recent name="C:\Users\User\Desktop\GIT-projects\nft\src\app\prisma" />
-      <recent name="C:\Users\User\Desktop\GIT-projects\nft\src\app" />
-      <recent name="C:\Users\User\Desktop\GIT-projects\nft\src" />
+      <recent name="C:\Users\User\Desktop\GIT-projects\nft\src\app\api\creators" />
+      <recent name="C:\Users\User\Desktop\GIT-projects\nft\public" />
+      <recent name="C:\Users\User\Desktop\GIT-projects\nft\public\home-imgs" />
+      <recent name="C:\Users\User\Desktop\GIT-projects\nft\public\ava" />
+      <recent name="C:\Users\User\Desktop\GIT-projects\nft\src\app\shared\assets\ava's" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -88,7 +115,21 @@
       <workItem from="1707540923462" duration="87000" />
       <workItem from="1707541024661" duration="7939000" />
       <workItem from="1707549065341" duration="3821000" />
-      <workItem from="1707553748550" duration="608000" />
+      <workItem from="1707553748550" duration="12213000" />
+      <workItem from="1707580857436" duration="17000" />
+      <workItem from="1707723965450" duration="739000" />
+      <workItem from="1707738319993" duration="2562000" />
+      <workItem from="1707749642181" duration="2174000" />
+      <workItem from="1707795963045" duration="3000" />
+      <workItem from="1707803235490" duration="68000" />
+      <workItem from="1707814396378" duration="321000" />
+      <workItem from="1707814941880" duration="895000" />
+      <workItem from="1707822406730" duration="1806000" />
+      <workItem from="1707825748391" duration="317000" />
+      <workItem from="1707873453145" duration="351000" />
+      <workItem from="1707873846485" duration="143000" />
+      <workItem from="1707874014158" duration="307000" />
+      <workItem from="1707875370621" duration="299000" />
     </task>
     <task id="LOCAL-00001" summary="start">
       <option name="closed" value="true" />
@@ -122,7 +163,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707539946175</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="img added">
+      <option name="closed" value="true" />
+      <created>1707554650127</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1707554650127</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,6 +180,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="start" />
-    <option name="LAST_COMMIT_MESSAGE" value="start" />
+    <MESSAGE value="img added" />
+    <option name="LAST_COMMIT_MESSAGE" value="img added" />
   </component>
 </project>

@@ -1,23 +1,23 @@
-import React from "react";
-
-type Author = {
-    name: string | null;
-};
+import React from 'react';
 
 type CardProps = {
     title: string;
     content: string | null;
-    author: Author | null;
-    image: string | undefined;
+    author: { name: string | null; } | null;
+    image: string | null;
 };
 
-const Card: React.FC<CardProps> = ({ title, content, author, image }) => {
+const Card: React.FC<CardProps> = (
+    { title, content, author,image }
+) => {
+    const imageUrl = image ? image : '/default-image.jpg';
+
     return (
         <div>
-            <h1>{title}</h1>
+            <h2>{title}</h2>
             <p>{content}</p>
-            <p>By: {author?.name}</p>
-            <img src={image} alt={title} />
+            <h3>{author?.name}</h3>
+            <img src={imageUrl} alt={title}/>
         </div>
     );
 };
